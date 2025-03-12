@@ -6,14 +6,14 @@ Design pattern is a solution to a common problem , each pattern describes a prob
 1. creational design patterns
     - Factory Method
     - Builder
-    - Singleton
+    - creational.Singleton
 
 2. structural design patterns
-    - Adapter
+    - structural.Adapter
      
 3. behavioral design patterns
-    - Observer
-    - Strategy
+    - behavioral.Observer
+    - behavioral.Strategy
     
 ## Author
 
